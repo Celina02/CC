@@ -1,0 +1,54 @@
+html, body {
+  margin: 15;
+  padding: 30;
+  
+  background-color: rgb(247, 247, 95);
+  
+}
+body{
+  font-family:'Times New Roman', Times, serif;
+}
+  .first{
+    color: rgb(79, 178, 99);
+    font-weight: bold;
+  }
+  .second{
+    color: rgb(10, 237, 161);
+    font-weight: bolder;
+  }
+  .third{
+    color: rgb(214, 77, 28);
+  }
+  .fourth{
+    color: rgb(184, 29, 112);
+  }
+p{
+  color: rgb(61, 182, 233);
+  font-size: 20px;
+}
+.box{
+  border-color: rgb(235, 67, 123);
+  border: width 2px; ;
+  border-style: solid;
+
+  padding: 20px;
+margin: 30px;
+/*margin-bottom: 20px;*/
+
+width: 250px;
+}
+.box2{
+  border-color: blueviolet;
+  position: absolute;
+  font-style: italic;
+  top: 100px;
+  left: 1020px;
+  
+  }
+canvas {
+  margin: 0px;
+  display: block;
+
+  
+  
+}
