@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(7, 52, 37);
+}
+li{
+    color: rgb(255, 255, 255);
+}
+
+.first{
+    font-size: 20px;
+}
+
+.second{
+    font-style: italic;
+}
+
+.box{
+border-color: palevioletred;
+border: width 2px; ;
+border-style: solid;
+
+padding: 20px;
+margin: 30px;
+/*margin-bottom: 20px;*/
+
+width: 200px;
+
+}
+.box2{
+position: absolute;
+top: 0px;
+left: 500px;
+
+}
+.box3{
+    position: absolute;
+    top: 40px
+    left: 800px;
+}
