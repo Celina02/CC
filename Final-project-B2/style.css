@@ -1,0 +1,19 @@
+body{
+  background-color: rgb(94, 92, 92);
+}
+img{
+  width: 1400px;
+  height: 500px;
+}
+h1{
+  font-style: oblique;
+  color: aliceblue;
+}
+p{
+  font-size: 50px;
+  color: rgb(200, 68, 95);
+}
+h2{
+  font-size: 40px;
+  color:aliceblue;
+}
